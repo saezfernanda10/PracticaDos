@@ -4,11 +4,11 @@
  */
 package ec.edu.espoch.practicados;
 
-public class Estudiante {
+public class Estudiantes {
 
     //atributos
     public String nombre;
-    public String identificacion;
+    public int identificacion;
     public float calificacionPromedio;
 
     //metodos

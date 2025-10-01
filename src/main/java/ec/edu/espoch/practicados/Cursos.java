@@ -4,12 +4,12 @@
  */
 package ec.edu.espoch.practicados;
 
-public class Curso {
+public class Cursos {
 
     //atributos
     public String nombreCurso;
     public String codigo;
-    public Estudiante[] estudiantesInstritos;
+    public Estudiantes[] estudiantesInstritos;
 
     //metodos
     public void agregarEstudiante()
